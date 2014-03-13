@@ -1,3 +1,9 @@
+# NOTICE
+
+**This repository and source code is not maintained anymore!!! Instead the v2 of this sofware has been developped and is maintained in the separate repository [here](https://github.com/Unicon/shib-cas-authn2) Also, if you are running this version of the authenticator, consider upgrading to v2 as it has a more solid and robust architecture as well as simplified configuration model.**
+
+
+
 # Security Patch
 
 Version `1.3.0.1` of `shib-cas-authenticator` is a **security fix for a critical security vulnerability**.
